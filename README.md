@@ -5,7 +5,9 @@ Trigger – Starts recording into the buffer and simultaneously plays back the s
 The buffer has a limited length. It is not recommended to keep the Trigger turned on continuously.
 
 Scan – Sets the amount of stretching (smaller values result in more stretching).
+
 GSize – Sets the grain size (larger values produce a coarser sound).
+
 PBSpeed – Sets the pitch (smaller values result in a lower pitch).
 
 ------------
